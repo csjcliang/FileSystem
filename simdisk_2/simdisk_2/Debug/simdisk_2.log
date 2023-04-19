@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  command.cpp
+f:\program files (x86)\microsoft visual studio\操作系统\课设\simdisk_2\simdisk_2\command.cpp(521): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  function.cpp
+  ipc.cpp
+  main.cpp
+  正在生成代码...
+  simdisk_2.vcxproj -> F:\Program Files (x86)\Microsoft Visual Studio\操作系统\课设\simdisk_2\Debug\simdisk_2.exe
